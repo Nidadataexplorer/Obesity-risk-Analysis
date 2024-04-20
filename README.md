@@ -32,6 +32,7 @@ o	Class 5:  1.00
 o	Class 6:  0.80
 o	Class 7:  0.91
 Feature importance analysis was also conducted to understand the factors contributing most to the model's predictions.
+
  <img width="506" alt="image" src="https://github.com/Nidadataexplorer/Obesity-risk-ML-Model/assets/165329225/a8bfaeb4-202b-41ff-a623-b6470dbaa782">
 
 
