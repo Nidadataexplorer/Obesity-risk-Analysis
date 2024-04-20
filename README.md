@@ -21,16 +21,27 @@ The model is built using Python and several libraries, including NumPy, pandas, 
 
 Results
 The trained model achieved the following performance metrics:
+
 •	The model's accuracy on the training set is: 0.95
+
 •	The model's accuracy on the test set is: 0.90
+
 •	F1-score on the test set:
+
 o	Class 1:  0.94 
+
 o	Class 2:  0.88 
+
 o	Class 3:  0.89
+
 o	Class 4:  0.97
+
 o	Class 5:  1.00
+
 o	Class 6:  0.80
+
 o	Class 7:  0.91
+
 Feature importance analysis was also conducted to understand the factors contributing most to the model's predictions.
 
  <img width="506" alt="image" src="https://github.com/Nidadataexplorer/Obesity-risk-ML-Model/assets/165329225/a8bfaeb4-202b-41ff-a623-b6470dbaa782">
